@@ -4,7 +4,7 @@ Maintained by chenggck@hk1.ibm.com
 ## Deploy Instana standalone server
 1. Pre-requisite   
 Operation System : RHEL 7.2+ (Other Linux OS support)  
-Hardware requirement : 16 cores and 48G Memory and 100G or above 
+Hardware requirement : 16 cores and 64G Memory and 150G or above 
 harddisk space  
 Instana package : e.g. OIAPM_1.0.193_EN.tar.gz (https://w3-03.ibm.com/software/xl/download/ticket.wss)  
 
